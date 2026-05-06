@@ -1,0 +1,28 @@
+commit d5707e1f0d161f2e6a584a6bc9e05e4621c1fb5b
+Author: Maria Bogdan <bogdanmarysia@gmail.com>
+Date:   Wed May 6 22:15:50 2026 +0200
+
+    Add git diff analysis
+
+diff --git a/GIT_5_diff.txt b/GIT_5_diff.txt
+new file mode 100644
+index 0000000..d082d2d
+--- /dev/null
++++ b/GIT_5_diff.txt
+@@ -0,0 +1,5 @@
++1. Plik drugi_plik.txt został dodany do repozytorium (nowy plik).
++2. Plik nowy_plik.txt został utworzony i zawiera jedną nową linię: "hello world".
++3. Nie widać usuniętych linii, jedynie dodanie nowych treści.
++4. Znak "+" oznacza dodane linie, a brak "-" oznacza brak usunięć.
++5. Sekcja @@ pokazuje, że zmiany dotyczą początku pliku (nowe pliki od 0 linii).
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..15cd5e6
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1,5 @@
++Przedmiot: System kontroli wersji
++Repozytorium: my_first_repo_GIT_3
++Imię i nazwisko: Maria Bogdan
++Numer słuchacza: pd5371
++Opis: Projekt do nauki GIT, operacje na repozytorium lokalnym.

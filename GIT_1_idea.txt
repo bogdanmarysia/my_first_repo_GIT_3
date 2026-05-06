@@ -1,0 +1,1 @@
+Użycie systemu kontroli wersji do przygotowywania notatek na studia. Dla każdego przedmiotu tworzę osobny plik. Z czasem często coś poprawiam, dopisuję albo usuwam błędy. Mogę poprawić notatki, wrócić do poprzednich wersji jeśli uznam że jednak niepotrzebnie były wstawione zmiany, mogę utworzyć gałąź, gdzie mogę przygotować streszczenie.

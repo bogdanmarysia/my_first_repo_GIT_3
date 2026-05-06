@@ -1,0 +1,22 @@
+On branch main
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   GIT_1_idea.txt
+	new file:   GIT_2_version.txt
+	new file:   GIT_4_status1.txt
+	new file:   GIT_4_status2.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   GIT_4_status2.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	GIT_3.txt
+	GIT_4_restore.txt
+	GIT_4_status3.txt
+

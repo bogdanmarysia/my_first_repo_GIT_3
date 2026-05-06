@@ -1,0 +1,109 @@
+ 220  mkdir git_zadania
+  221  cd git_zadania
+  222  git clone https://github.com/BlackIQ/Hello-World.git
+  223  cd Hello-World
+  224  ls -a
+  225  cd .git\nls
+  226  cd ..
+  227  git log
+  228  cd ..
+  229  mkdir my_first_repo_GIT_3
+  230  cd my_first_repo_GIT_3
+  231  git init
+  232  ls -a
+  233  cd .git
+  234  ls
+  235  cd .. 
+  236  nano GIT_3.txt
+
+mariabogdan@laptop-Maria ~ % cd ~/Desktop
+mariabogdan@laptop-Maria Desktop % mkdir git_zadania
+mariabogdan@laptop-Maria Desktop % cd git_zadania
+mariabogdan@laptop-Maria git_zadania % git clone https://github.com/BlackIQ/Hello-World.git
+Cloning into 'Hello-World'...
+remote: Enumerating objects: 5594, done.
+remote: Counting objects: 100% (919/919), done.
+remote: Compressing objects: 100% (194/194), done.
+remote: Total 5594 (delta 798), reused 735 (delta 708), pack-reused 4675 (from 2)
+Receiving objects: 100% (5594/5594), 4.43 MiB | 3.31 MiB/s, done.
+Resolving deltas: 100% (2481/2481), done.
+mariabogdan@laptop-Maria git_zadania % cd Hello-World
+mariabogdan@laptop-Maria Hello-World % ls -a
+فردوسی			Carbon			Fsharp			Node.js			Rune
+قلب			Clipper			Go			Not-English		Rust
+.			CLISP			Go-Gin			NXC			Scala
+..			Clojure			Groovy			OBJECTIVE-C		Scheme
+.git			COBOL			Hack			OCaml			Scratch
+.github			Cobra			Hascal			Octave			Scss
+.gitignore		CoffeScript		Hashemi			Odin-lang		Shakespeare
+ABC			CONTRIBUTING.md		Haskell			Opa			ShellScript
+Abdal-Autoit		CONTRIBUTORS_LIST.md	Haxe			Oz			Small-Basic
+ActionScript		Cow			Html			Pascal			Solidity
+Ada			Cpp			Java			Pashmak			SQL
+Algol			Crystal			JavaScript		Perl			Swift
+Angular.js		Csharp			Jquery			Php			Tcl
+Ansible			Css			Julia			Piet			TODO.md
+AppleScript		CUDA			Jython			Pike			Tornado
+Arduino			Curl			Kotlin			Pine-Script		tree.txt
+ASCII			D			Ktor			Plus			Typescript
+Assembly		Dart			LaTeX			Pony			V
+auto-gen.py		Delphi			LICENSE			PowerShell		Vala
+Awk			Deno			Limbo			Prolog			VB
+B			Django			Lisp			PureScript		VBScript
+Ballerina		Docker			LOLCODE			Python			Verilog
+Bash			Eiffel			Lua			QBasic			Vim-Script
+Basic			Elixir			Makefile		Qsharp			Whitespace
+Batch			Elm			Matlab			Qwik			Yacas
+BCPL			Emberjs			MIPS			R			YAML
+Befunge			Erlang			Mql4			React			YO
+Binary			Fastapi			Mql5			React-Native		Yorick
+Blender			Flask			My_folderA		README.md		Z-Shell
+Brainfuck		Flutter			Neko-VM			Red			Z#
+C			Forth			Nginx			Rockstar		Zig-lang
+C-Shell			Fortran			Nim			Ruby			Zinc
+mariabogdan@laptop-Maria Hello-World % cd .git
+ls
+config		HEAD		index		logs		packed-refs
+description	hooks		info		objects		refs
+mariabogdan@laptop-Maria .git % cd ..
+mariabogdan@laptop-Maria Hello-World % git log
+commit fedee7e801aa70b59a9f9820d22b0eceb9312685 (HEAD -> main, origin/main, origin/HEAD)
+Author: Hello-World-Project-Bot <>
+Date:   Fri Feb 21 06:37:13 2025 +0000
+
+    Run auto-gen.py
+
+commit 4e23403e2b3b2a4d7b752ed9c1dfb7b547ce7cc4
+Merge: b86b7b5 d576b21
+Author: AmirHossein Mohammadi <amirhosseinmohammadi1380@yahoo.com>
+Date:   Fri Feb 21 10:06:55 2025 +0330
+
+    Merge pull request #278 from thegreatsourcerer/main
+    
+    Added Info file and Updated the README
+
+commit d576b214ea9b64243456e7269ba4bc55d046b6cc
+Author: Rishi Chitnis <rishichitnis007@yahoo.com>
+Date:   Thu Feb 20 13:24:47 2025 -0500
+
+    feat(update): Update README
+
+commit 1707e6de573c6ad00e15c17cefcbbbe56c085d0e
+Author: Rishi Chitnis <rishichitnis007@yahoo.com>
+Date:   Thu Feb 20 13:20:26 2025 -0500
+
+    feat(add): Add Info file
+
+commit b86b7b50f7bdf4cef187da767026796c12a6330d
+Author: Hello-World-Project-Bot <>
+mariabogdan@laptop-Maria Hello-World % 
+mariabogdan@laptop-Maria Hello-World % cd ..
+mariabogdan@laptop-Maria git_zadania % mkdir my_first_repo_GIT_3
+mariabogdan@laptop-Maria git_zadania % cd my_first_repo_GIT_3
+mariabogdan@laptop-Maria my_first_repo_GIT_3 % git init
+Initialized empty Git repository in /Users/mariabogdan/Desktop/git_zadania/my_first_repo_GIT_3/.git/
+mariabogdan@laptop-Maria my_first_repo_GIT_3 % ls -a
+.	..	.git
+mariabogdan@laptop-Maria my_first_repo_GIT_3 % cd .git
+mariabogdan@laptop-Maria .git % ls
+config		description	HEAD		hooks		info		objects		refs

@@ -1,3 +1,23 @@
+commit c1115234cc46e54130509348bdf7c45e185281cf
+Author: Maria Bogdan <bogdanmarysia@gmail.com>
+Date:   Thu May 7 20:53:01 2026 +0200
+
+    GIT_8: repository state
+    
+    WIP before rebase
+
+commit 51ebca37fc8fa6f7ab881106d4b6e127d93a888f
+Author: Maria Bogdan <bogdanmarysia@gmail.com>
+Date:   Thu May 7 20:47:50 2026 +0200
+
+    GIT_8: diff between last commits
+
+commit 6bd2cdc1a3372309998cb747540cddf79e1ffbd6
+Author: Maria Bogdan <bogdanmarysia@gmail.com>
+Date:   Thu May 7 20:46:37 2026 +0200
+
+    GIT_8: log on test branch
+
 commit 6db70f24670411669c81c155da5086b184903b83
 Author: Maria Bogdan <bogdanmarysia@gmail.com>
 Date:   Thu May 7 20:36:54 2026 +0200

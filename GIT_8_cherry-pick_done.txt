@@ -1,3 +1,11 @@
+* c684834 GIT_8: graph log on test
+* 9ea8e87 GIT_8: rebase result
+* c111523 GIT_8: repository state
+* 51ebca3 GIT_8: diff between last commits
+* 6bd2cdc GIT_8: log on test branch
+* 6db70f2 GIT_8: graph log on test
+* c49eaff GIT_8: branch, status, stash list
+* 4696d3d GIT_8: cherry-pick done
 * 80a6587 GIT_8: restore stash changes
 *   839e73d Merge branch 'test'
 |\  

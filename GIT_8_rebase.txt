@@ -1,3 +1,4 @@
+HEAD
 commit c1115234cc46e54130509348bdf7c45e185281cf
 Author: Maria Bogdan <bogdanmarysia@gmail.com>
 Date:   Thu May 7 20:53:01 2026 +0200
@@ -36,6 +37,8 @@ Date:   Thu May 7 20:37:49 2026 +0200
 
     GIT_8: cherry-pick done
 
+=======
+>>>>>>> c10b6c3 (GIT_8: graph log on test)
 commit 80a6587e0f3cebaaad509b6461e1b38e8193d7d8
 Author: Maria Bogdan <bogdanmarysia@gmail.com>
 Date:   Thu May 7 20:34:23 2026 +0200

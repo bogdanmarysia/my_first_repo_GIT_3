@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-stash@{0}: WIP on test: 08875be Test: intentional conflict in README
-stash@{1}: WIP on main: a6f7b64 GIT_7: branch history graph
-=======
-stash@{0}: WIP on main: a6f7b64 GIT_7: branch history graph
->>>>>>> Stashed changes
+stash@{0}: WIP on main: 4696d3d GIT_8: cherry-pick done
+stash@{1}: WIP on test: 08875be Test: intentional conflict in README
+stash@{2}: WIP on main: a6f7b64 GIT_7: branch history graph

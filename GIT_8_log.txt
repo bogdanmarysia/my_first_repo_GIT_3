@@ -1,0 +1,35 @@
+commit d087bcdc112d0599b107918325741f74a3a395d8
+Author: Maria Bogdan <bogdanmarysia@gmail.com>
+Date:   Thu May 7 20:31:23 2026 +0200
+
+    GIT_8: branch, status and stash list
+
+commit 08875be06c180c405f716fb565fd267e106f8903
+Author: Maria Bogdan <bogdanmarysia@gmail.com>
+Date:   Thu May 7 20:20:00 2026 +0200
+
+    Test: intentional conflict in README
+
+commit f017a48ca6dfc58f74597b2fc3c4701d85430aec
+Author: Maria Bogdan <bogdanmarysia@gmail.com>
+Date:   Thu May 7 20:17:41 2026 +0200
+
+    GIT_7: files from test branch (ls, status, log)
+
+commit 970af35b9587afd9cc8b13684fad413abb7abe19
+Author: Maria Bogdan <bogdanmarysia@gmail.com>
+Date:   Wed May 6 23:34:05 2026 +0200
+
+    GIT_6: log, log --oneline and git show analysis
+
+commit d5707e1f0d161f2e6a584a6bc9e05e4621c1fb5b
+Author: Maria Bogdan <bogdanmarysia@gmail.com>
+Date:   Wed May 6 22:15:50 2026 +0200
+
+    Add git diff analysis
+
+commit f8ac146e25b31ddb33ea42008b9b1647717d5df8
+Author: Maria Bogdan <bogdanmarysia@gmail.com>
+Date:   Wed May 6 22:00:33 2026 +0200
+
+    Final commit with restored files and updates

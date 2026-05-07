@@ -1,0 +1,58 @@
+f1c8a1e HEAD@{0}: commit: GIT_9: after reset
+dfc67b3 HEAD@{1}: reset: moving to HEAD~1
+645adb5 HEAD@{2}: commit: GIT_9: initial log
+dfc67b3 HEAD@{3}: commit: GIT_8: cherry-pick completed
+c684834 HEAD@{4}: commit (cherry-pick): GIT_8: graph log on test
+9ea8e87 HEAD@{5}: checkout: moving from test to main
+8f4b0b1 HEAD@{6}: commit: GIT_8: graph log on test
+aed7ad8 HEAD@{7}: checkout: moving from main to test
+9ea8e87 HEAD@{8}: commit: GIT_8: rebase result
+c111523 HEAD@{9}: rebase (finish): returning to refs/heads/main
+c111523 HEAD@{10}: rebase (pick): GIT_8: repository state
+51ebca3 HEAD@{11}: rebase (pick): GIT_8: diff between last commits
+6bd2cdc HEAD@{12}: rebase (continue): GIT_8: log on test branch
+6db70f2 HEAD@{13}: rebase (pick): GIT_8: graph log on test
+c49eaff HEAD@{14}: rebase (start): checkout HEAD~2
+0bdcfaa HEAD@{15}: rebase (finish): returning to refs/heads/main
+0bdcfaa HEAD@{16}: rebase (squash): GIT_8: repository state
+36bb0b4 HEAD@{17}: rebase (start): checkout HEAD~2
+8cd6aec HEAD@{18}: commit: WIP before rebase
+36bb0b4 HEAD@{19}: commit: GIT_8: repository state
+f6eb2b7 HEAD@{20}: commit (merge): Resolve merge conflict in GIT_8_log.txt
+c49eaff HEAD@{21}: checkout: moving from test to main
+aed7ad8 HEAD@{22}: commit: GIT_8: diff between last commits
+a4f6531 HEAD@{23}: commit: GIT_8: log on test branch
+c10b6c3 HEAD@{24}: checkout: moving from main to test
+c49eaff HEAD@{25}: commit: GIT_8: branch, status, stash list
+4696d3d HEAD@{26}: reset: moving to HEAD
+4696d3d HEAD@{27}: commit: GIT_8: cherry-pick done
+80a6587 HEAD@{28}: checkout: moving from test to main
+c10b6c3 HEAD@{29}: commit: GIT_8: graph log on test
+c429edf HEAD@{30}: checkout: moving from main to test
+80a6587 HEAD@{31}: rebase (finish): returning to refs/heads/main
+80a6587 HEAD@{32}: rebase (squash): GIT_8: restore stash changes
+82a1c15 HEAD@{33}: rebase (start): checkout HEAD~2
+d8e8eed HEAD@{34}: rebase (finish): returning to refs/heads/main
+d8e8eed HEAD@{35}: rebase (start): checkout HEAD~2
+d8e8eed HEAD@{36}: commit: GIT_8: repository state
+82a1c15 HEAD@{37}: commit: GIT_8: restore stash changes
+839e73d HEAD@{38}: merge test: Merge made by the 'ort' strategy.
+a6f7b64 HEAD@{39}: checkout: moving from test to main
+c429edf HEAD@{40}: commit: GIT_8: diff between last commits
+d087bcd HEAD@{41}: checkout: moving from test to test
+d087bcd HEAD@{42}: commit: GIT_8: branch, status and stash list
+08875be HEAD@{43}: reset: moving to HEAD
+08875be HEAD@{44}: checkout: moving from main to test
+a6f7b64 HEAD@{45}: reset: moving to HEAD
+a6f7b64 HEAD@{46}: commit: GIT_7: branch history graph
+66e3a44 HEAD@{47}: commit (merge): Resolve merge conflict in README
+a562a41 HEAD@{48}: checkout: moving from test to main
+08875be HEAD@{49}: commit: Test: intentional conflict in README
+f017a48 HEAD@{50}: checkout: moving from main to test
+a562a41 HEAD@{51}: commit: Main: update README with branch info
+970af35 HEAD@{52}: checkout: moving from test to main
+f017a48 HEAD@{53}: commit: GIT_7: files from test branch (ls, status, log)
+970af35 HEAD@{54}: checkout: moving from main to test
+970af35 HEAD@{55}: commit: GIT_6: log, log --oneline and git show analysis
+d5707e1 HEAD@{56}: commit: Add git diff analysis
+f8ac146 HEAD@{57}: commit (initial): Final commit with restored files and updates

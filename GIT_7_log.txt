@@ -1,0 +1,17 @@
+commit 970af35b9587afd9cc8b13684fad413abb7abe19
+Author: Maria Bogdan <bogdanmarysia@gmail.com>
+Date:   Wed May 6 23:34:05 2026 +0200
+
+    GIT_6: log, log --oneline and git show analysis
+
+commit d5707e1f0d161f2e6a584a6bc9e05e4621c1fb5b
+Author: Maria Bogdan <bogdanmarysia@gmail.com>
+Date:   Wed May 6 22:15:50 2026 +0200
+
+    Add git diff analysis
+
+commit f8ac146e25b31ddb33ea42008b9b1647717d5df8
+Author: Maria Bogdan <bogdanmarysia@gmail.com>
+Date:   Wed May 6 22:00:33 2026 +0200
+
+    Final commit with restored files and updates

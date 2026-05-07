@@ -1,9 +1,12 @@
+<<<<<<< Updated upstream
 commit d087bcdc112d0599b107918325741f74a3a395d8
 Author: Maria Bogdan <bogdanmarysia@gmail.com>
 Date:   Thu May 7 20:31:23 2026 +0200
 
     GIT_8: branch, status and stash list
 
+=======
+>>>>>>> Stashed changes
 commit 08875be06c180c405f716fb565fd267e106f8903
 Author: Maria Bogdan <bogdanmarysia@gmail.com>
 Date:   Thu May 7 20:20:00 2026 +0200

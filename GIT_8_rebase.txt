@@ -1,0 +1,75 @@
+commit 80a6587e0f3cebaaad509b6461e1b38e8193d7d8
+Author: Maria Bogdan <bogdanmarysia@gmail.com>
+Date:   Thu May 7 20:34:23 2026 +0200
+
+    GIT_8: restore stash changes
+    
+    GIT_8: repository state
+
+commit 839e73d65ad6ffeea778e0f1c2eecee8077b0800
+Merge: a6f7b64 c429edf
+Author: Maria Bogdan <bogdanmarysia@gmail.com>
+Date:   Thu May 7 20:32:57 2026 +0200
+
+    Merge branch 'test'
+
+commit c429edf9ded0e915ee9f927e14a4aa2920afb3ac
+Author: Maria Bogdan <bogdanmarysia@gmail.com>
+Date:   Thu May 7 20:32:40 2026 +0200
+
+    GIT_8: diff between last commits
+
+commit d087bcdc112d0599b107918325741f74a3a395d8
+Author: Maria Bogdan <bogdanmarysia@gmail.com>
+Date:   Thu May 7 20:31:23 2026 +0200
+
+    GIT_8: branch, status and stash list
+
+commit a6f7b64da673da664282c578e51bb9845a91ebec
+Author: Maria Bogdan <bogdanmarysia@gmail.com>
+Date:   Thu May 7 20:22:15 2026 +0200
+
+    GIT_7: branch history graph
+
+commit 66e3a4469273ccf97a3f121d2d282947799b6a70
+Merge: a562a41 08875be
+Author: Maria Bogdan <bogdanmarysia@gmail.com>
+Date:   Thu May 7 20:21:55 2026 +0200
+
+    Resolve merge conflict in README
+
+commit 08875be06c180c405f716fb565fd267e106f8903
+Author: Maria Bogdan <bogdanmarysia@gmail.com>
+Date:   Thu May 7 20:20:00 2026 +0200
+
+    Test: intentional conflict in README
+
+commit a562a4192dbce4d90cd7286af4a38aef832b715f
+Author: Maria Bogdan <bogdanmarysia@gmail.com>
+Date:   Thu May 7 20:18:58 2026 +0200
+
+    Main: update README with branch info
+
+commit f017a48ca6dfc58f74597b2fc3c4701d85430aec
+Author: Maria Bogdan <bogdanmarysia@gmail.com>
+Date:   Thu May 7 20:17:41 2026 +0200
+
+    GIT_7: files from test branch (ls, status, log)
+
+commit 970af35b9587afd9cc8b13684fad413abb7abe19
+Author: Maria Bogdan <bogdanmarysia@gmail.com>
+Date:   Wed May 6 23:34:05 2026 +0200
+
+    GIT_6: log, log --oneline and git show analysis
+
+commit d5707e1f0d161f2e6a584a6bc9e05e4621c1fb5b
+Author: Maria Bogdan <bogdanmarysia@gmail.com>
+Date:   Wed May 6 22:15:50 2026 +0200
+
+    Add git diff analysis
+
+commit f8ac146e25b31ddb33ea42008b9b1647717d5df8
+Author: Maria Bogdan <bogdanmarysia@gmail.com>
+Date:   Wed May 6 22:00:33 2026 +0200
+
+    Final commit with restored files and updates

@@ -1,0 +1,7 @@
+* c429edf GIT_8: diff between last commits
+* d087bcd GIT_8: branch, status and stash list
+* 08875be Test: intentional conflict in README
+* f017a48 GIT_7: files from test branch (ls, status, log)
+* 970af35 GIT_6: log, log --oneline and git show analysis
+* d5707e1 Add git diff analysis
+* f8ac146 Final commit with restored files and updates

@@ -1,0 +1,15 @@
+* 80a6587 GIT_8: restore stash changes
+*   839e73d Merge branch 'test'
+|\  
+| * c429edf GIT_8: diff between last commits
+| * d087bcd GIT_8: branch, status and stash list
+* | a6f7b64 GIT_7: branch history graph
+* | 66e3a44 Resolve merge conflict in README
+|\| 
+| * 08875be Test: intentional conflict in README
+| * f017a48 GIT_7: files from test branch (ls, status, log)
+* | a562a41 Main: update README with branch info
+|/  
+* 970af35 GIT_6: log, log --oneline and git show analysis
+* d5707e1 Add git diff analysis
+* f8ac146 Final commit with restored files and updates

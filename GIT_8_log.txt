@@ -1,12 +1,27 @@
-<<<<<<< Updated upstream
+HEAD
+Updated upstream
+
+commit c10b6c39213127c1c26f1298a62cf020bce93d7a
+Author: Maria Bogdan <bogdanmarysia@gmail.com>
+Date:   Thu May 7 20:36:54 2026 +0200
+
+    GIT_8: graph log on test
+
+commit c429edf9ded0e915ee9f927e14a4aa2920afb3ac
+Author: Maria Bogdan <bogdanmarysia@gmail.com>
+Date:   Thu May 7 20:32:40 2026 +0200
+
+    GIT_8: diff between last commits
+
+a4f6531 (GIT_8: log on test branch)
 commit d087bcdc112d0599b107918325741f74a3a395d8
 Author: Maria Bogdan <bogdanmarysia@gmail.com>
 Date:   Thu May 7 20:31:23 2026 +0200
 
     GIT_8: branch, status and stash list
 
-=======
->>>>>>> Stashed changes
+
+Stashed changes
 commit 08875be06c180c405f716fb565fd267e106f8903
 Author: Maria Bogdan <bogdanmarysia@gmail.com>
 Date:   Thu May 7 20:20:00 2026 +0200
